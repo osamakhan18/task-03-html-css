@@ -1,0 +1,48 @@
+ #main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    height: 600px;
+    background-color:rgb(228, 207, 180);
+    margin:0 auto; 
+    border-radius: 20px;
+
+ } 
+ 
+
+form{
+    width: 400px;
+    height: 480px;
+    background-color: white;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+}
+
+#inner{
+    display: flex;
+    margin-left: 60px;
+}
+
+#forget{
+    display: inline;
+    margin-left: 50px;
+}
+
+button{
+    margin-top:20px;
+    padding: 5px 100px;
+    font-size: larger;
+    border-radius: 10px; 
+}
+
+.side{
+   margin-left: 60px;
+}
+
+input{
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
